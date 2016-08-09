@@ -11,7 +11,9 @@ The code is crawling the 500 top websites from Alexa by given country, and after
 
 2. Scan 1000 most common subdomain name for given address.
 
+Atfer each action the results will be saved at the folder under the name of the domain.
 
+for example, google.com/dnscan.txt & google.com/nmap.txt
 
 
 You can freely improve the code by adding another features / scanning methods.
